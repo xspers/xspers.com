@@ -1,0 +1,44 @@
+p{
+    color:rgb(234, 234, 242);
+    
+}
+body {
+    background-image: url(Artboard\ 1.png);}
+    
+.bruh {width: 200px;
+    color: white;
+    transition-duration: 2.3s;
+}
+    
+
+.bruh:hover {color: rgb(9, 97, 169);
+    width: 20px;
+}
+.that{ width: 50px;
+    transition-duration: 2s;
+
+}
+
+.that:hover{ width: 100px;
+
+}
+.hh {width: 50px;                                   
+    color: white;
+    transition-duration: 1s;
+}
+.hh:hover {color: rgb(9, 97, 169);
+    width: 100px;
+}
+.hhh {width: 50px;
+    color: white;
+    transition-duration: 1s;
+}
+.hhh:hover {color: rgb(9, 97, 169);
+    width: 100px;}
+
+.hhhh {width: 50px;
+    color: white;
+    transition-duration: 1s;
+}
+.hhhh:hover {color: rgb(9, 97, 169);
+    width: 100px;}
